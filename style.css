@@ -1,0 +1,31 @@
+
+
+
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+    @font-face {
+      font-family: 'AQEELFONT';
+      src: url(Sevillana/fontAK.ttf);
+    }
+    body{
+      background-color: black;
+      color: white;
+    }
+.Request{
+    font-family: 'Roboto Slab', sans-serif;
+   border: 1px solid black;
+  }
+    
+
+.heading{
+   font-family: 'AQEELFONT',sans-serif;
+}
+.application{
+  font-family: 'Pacifico',sans-serif;
+  border: 0px rgb(142, 242, 11);
+  background-color: rgba(0, 17, 255, 0.1);
+  margin: 4px;
+  }
+.box{
+  background: url(ak.jpg);
+  height: 500px;
+}
